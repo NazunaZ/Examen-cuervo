@@ -1,0 +1,177 @@
+@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+
+header{
+    background-color: black;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 40px;
+  font-family: MedievalSharp;
+}
+.logo-menu{
+    position: absolute;
+    left: 33px;
+    top: 32px;   
+}
+
+.fan{
+    background-color: #31304D;
+    padding: 0;
+    height: 300px;
+   
+}
+.cuervo-img{
+   position: absolute;
+    width: 200px;
+top: 234px;
+    left: 36%;
+    width: 150px;    
+}
+.pajaro{
+    background-color: #31304D;
+    padding: 0;
+height: 223px;
+
+
+
+}
+.text-cuervo{
+    text-align: center;
+    height: 132px;
+    padding: 0;
+    margin: 0;
+
+}
+.text-cuervo h2{
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+nav.pj{
+    display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: center;
+  align-items: normal;
+  align-content: normal;
+    background-color: #31304D;
+    color: black;
+    margin: 0;
+    padding: 0px;
+    top: 0;
+   
+    
+}
+div.tx2{
+   
+    background-color: #31304D;
+    text-align: center;
+    align-items: center;
+    color: white;
+    height: 467px;
+    margin: 0px;
+    padding: 137px;
+
+}
+  .merch {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: normal;
+    align-content: center;
+    background-position: 50% 100%;
+    text-align: center;
+    font-size: 1.5rem;
+    color: aliceblue;
+  }
+  .desafio1 {
+    background-color: #030303;
+    color: white;
+    width: 5000px;
+    height: 1000px;
+  }
+  .desafio1 p {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    text-align: center;
+  }
+  .desafio2 p {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    text-align: center;
+  }
+  .desafio1 p {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    text-align: center;
+  }
+  .merch p {
+    font-size: 1.5rem;
+  }
+  .merch h2 {
+    font-size: 2rem;
+  }
+  .desafio2 {
+    background-color: #544ff3;
+    color: black;
+    width: 3000px;
+  }
+  .desafio2 img{
+    position: absolute;
+    width: 27%;
+    height: 30%;
+    top: 204%;
+    left: 7%;
+   
+
+
+  }
+  .desafio1 img{
+    position: absolute;
+    width: 21%;
+    height: 28%;
+    top: 206%;
+    left: 45%;
+   
+
+
+  }
+  .desafio3 img{
+    position: absolute;
+    width: 27%;
+    height: 30%;
+    top: 204%;
+    left: 72%;
+   
+
+
+  }
+  
+  .desafio3 {
+    background-color: #030303;
+    color: white;
+  }
+  .contacto {
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+    justify-content: space-around;
+    align-items: center;
+    align-content: normal;
+    color: wheat;
+    background-color: black;
+    width: 100%;
+    height: 220px;
+  }
+  .fa {
+    font-size: 50px;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+  }
+
+
+
